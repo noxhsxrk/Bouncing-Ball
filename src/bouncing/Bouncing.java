@@ -15,7 +15,7 @@ public class Bouncing {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println(new BouncingBall().bouncingBall(5, 3, 15));
     }
     
 }
